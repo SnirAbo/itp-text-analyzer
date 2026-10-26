@@ -1,0 +1,8 @@
+dist/
+node_modules/
+*.log
+coverage/
+.playwright/
+.vscode/
+.DS_Store
+.env*
